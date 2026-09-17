@@ -1,0 +1,6 @@
+interface:
+  display_name: "医生科普发布工具包"
+  short_description: "把医学选题整理成带来源、配图方案和审核清单的公众号文章包"
+  default_prompt: "使用 $doctor-wechat-publisher 为普通成年读者制作一篇鼻出血科普审核稿，附来源、HTML排版和配图任务单。"
+policy:
+  allow_implicit_invocation: true

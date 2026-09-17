@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "title": "流鼻血时，先记住这三个动作",
+  "summary": "坐下前倾、捏住鼻子柔软处、持续计时；同时识别需要急诊的情况。",
+  "audience": "普通成年人；非严重外伤场景",
+  "updated": "2026-09-17",
+  "status": "needs_clinician_review",
+  "brand": {
+    "name": "清楚一点健康笔记（虚构演示品牌）",
+    "byline": "科普演示｜未署名",
+    "color": "#146B63"
+  },
+  "sections": [
+    {
+      "heading": "先看：是否需要立即求助",
+      "paragraphs": [
+        {
+          "text": "如果出血很多，或伴头晕、无力、呼吸困难，或在头部受到撞击后发生，应尽快急诊就医，不要为了等计时结束而拖延。",
+          "source_ids": [
+            "S1"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "没有上述紧急情况时，怎么做",
+      "paragraphs": [
+        {
+          "text": "坐下，身体稍向前倾，用嘴呼吸。用手捏紧鼻子下端柔软的部分，位置在鼻孔上方，而不是硬硬的鼻梁。",
+          "source_ids": [
+            "S1",
+            "S2"
+          ]
+        },
+        {
+          "text": "持续捏住，不要反复松手查看。本篇成人演示采用持续15分钟的路径；15分钟后仍在出血，应前往急诊。对出血程度感到担忧时，也应及时求助。",
+          "source_ids": [
+            "S2"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "为什么提醒你向前倾",
+      "paragraphs": [
+        {
+          "text": "血可能向咽喉后方流。前倾，并把流到嘴里的血吐出；吞下血液可能让人恶心。",
+          "source_ids": [
+            "S2"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "止住以后，也有两件事要记住",
+      "paragraphs": [
+        {
+          "text": "不要用力擤鼻、抠鼻或往鼻内塞纸巾；至少24小时内避免热食、热饮和热水浴。",
+          "source_ids": [
+            "S2"
+          ]
+        },
+        {
+          "text": "反复流鼻血应就医评估。正在服用抗凝等影响凝血的药物时，不要因为鼻出血自行停药，先向医务人员求助。",
+          "source_ids": [
+            "S2"
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "institution": "NHS",
+      "title": "Nosebleed",
+      "url": "https://www.nhs.uk/conditions/nosebleed/",
+      "accessed": "2026-09-17"
+    },
+    {
+      "id": "S2",
+      "institution": "Hull University Teaching Hospitals NHS Trust",
+      "title": "Nosebleeds (Epistaxis) – Adults",
+      "url": "https://www.hey.nhs.uk/patient-leaflet/nosebleeds-epistaxis-adults/",
+      "accessed": "2026-09-17"
+    }
+  ]
+}
